@@ -10,7 +10,7 @@ O objetivo deste repositório é resumir os estudos basiados no livro 'Mãos à 
 # Vizualização do capítulos
 
 - [Projeto de aprendizado de Máquina Ponta a Ponta](https://nbviewer.org/github/leandrosantana09/oreilly_project/blob/main/cap_2_regression.ipynb)
--[Classificação](https://nbviewer.org/github/leandrosantana09/oreilly_project/blob/main/cap_3_classifier.ipynb)
+- [Classificação](https://nbviewer.org/github/leandrosantana09/oreilly_project/blob/main/cap_3_classifier.ipynb)
 
 # CONTATO PROFISSIONAL
 
